@@ -17,7 +17,7 @@ In this notebook we are going to perfrom some analysis to discover differnt insi
 ## Dataset
 The dataset is taken from kaggle. Source of the dataset - [Heart disease prediction](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
 
-There are 14 features in the dataset, which are described below.
+There are 13 features/attributes in the dataset, which are described below.
 
 * age: age in years
 * sex: sex (1 = male; 0 = female)
@@ -45,7 +45,7 @@ There are 14 features in the dataset, which are described below.
     * 0 = normal
     * 1 = fixed defect
     * 2 = reversable defect
-* condition: 0 = no disease, 1 = disease
+* condition: 0 = no disease, 1 = disease --> ####target variable
 
 
 
