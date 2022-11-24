@@ -45,7 +45,7 @@ There are 13 features/attributes in the dataset, which are described below.
     * 0 = normal
     * 1 = fixed defect
     * 2 = reversable defect
-* condition: 0 = no disease, 1 = disease --> #### target variable
+* condition: 0 = no disease, 1 = disease --> ### target variable
 
 
 
